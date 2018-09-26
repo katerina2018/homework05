@@ -1,0 +1,82 @@
+.content{
+    width: 1000px;
+    margin: 0px auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+   
+}
+hr{
+width: 10%
+
+}
+.zagl_letter{
+    text-transform: uppercase;
+
+}
+.first{
+width: 50%;
+margin: 0px auto;
+
+
+}
+
+.images{
+    display: inline-block;
+    width: 22%;
+    padding: 2px;
+    margin: 2px;
+}
+.first_potret{
+    background: #18b6dd;
+    height: 212px;
+   
+}
+.first_potret div{
+    background: #5ecce7;
+    vertical-align: middle;
+    width: 40px;
+    height: 30px;
+    display: inline-block;
+    margin-top: 40%;
+    padding-top: 10px;
+}
+
+.potret{
+width: 95%;
+
+}
+.images h3{
+text-align: left;
+padding:2px;
+margin: 2px;
+
+}
+
+.images p{
+    text-align: left;
+    padding:2px;
+    margin: 2px;
+    color: #646464;
+    
+    }
+
+    .three{
+margin-top: 100px;
+
+    }
+
+    .four{
+display: inline-block;
+margin: 5px;
+width: 30%;
+padding: 5px;;
+
+
+    }
+
+
+    .four h2:hover{
+     color: #19b5de;
+
+    }
+   

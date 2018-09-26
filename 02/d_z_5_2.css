@@ -1,0 +1,131 @@
+.content{
+width: 1000px;
+margin: 0px auto;
+
+}
+header{
+    height: 250px;
+   background-image: url(./img/bg.jpg);
+   
+    background-size: 100%;
+
+    background-color: rgba(0,0,0,.5);
+    text-align: center;
+    color: #fff;
+    padding-top:80px; 
+   
+}
+
+hr{
+    background: #fff;
+    width: 5%;
+}
+ul{
+margin-top:50px; 
+
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+    vertical-align: top;
+    font-size: 24px;
+}
+ul li p {
+    font-size: 12px;
+}
+
+.zagl_letter{
+    text-transform: uppercase;
+
+}
+.active{
+    color: #f14016;
+}
+ul li p{
+margin: 0px;
+padding: 0px;
+padding-bottom: -20px;
+
+}
+section{
+    text-align: center;
+
+}
+
+section h2{
+text-align: left;
+
+}
+form{
+text-align: left;
+
+}
+input{
+    border: none;
+    border-bottom:1px solid #333;
+    width: 500px; 
+    color:#000;
+}
+label{
+    color: #adb0b5;
+
+}
+[type="submit"]{
+
+    background: #ea6852;
+    width: 200px;
+    height: 50px;
+    color: #fff;
+border: none;
+font-size: 1.2em;
+}
+
+.behance{
+    background: #0e9df9;
+}
+.icon{
+    width: 150px;
+    height: 30px;
+    margin: 5px;
+    padding-top: 10px;
+}
+.twitter{
+    background: #51d7fd;
+
+}
+.dribbble{
+
+    background: #fa4d9c;
+}
+
+.facebook{
+    background: #2a62ac;
+
+}
+.google{
+
+    background: #f13031;
+}
+.left{
+float: left;;
+
+
+}
+.right{
+
+    float: right;
+    margin-top: 70px;
+}
+
+footer{
+
+    clear: both;
+    height: 50px;
+    background: #c9c9cb;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
